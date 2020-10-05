@@ -13,7 +13,10 @@
     </header>
 
 
-
+    <!-- Agregamos section para galeria principal -->
+    <section id="Galeria">
+        <img src="front/" alt="">
+    </section>
 
 
 
