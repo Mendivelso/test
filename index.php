@@ -27,6 +27,17 @@
         </p>
     </section>
 
+    <!-- Seccion para cargar informacion del blog  -->
+    <section id="blog">
+        <div id="opt1">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi quaerat vitae cupiditate minus, est, recusandae eaque sit commodi architecto officiis aperiam quam pariatur labore accusantium maxime odio possimus cum!</p>
+        </div>
+
+        <div id="opt2">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nisi quaerat vitae cupiditate minus, est, recusandae eaque sit commodi architecto officiis aperiam quam pariatur labore accusantium maxime odio possimus cum!</p>
+        </div>    
+    </section>
+
 
 
 
